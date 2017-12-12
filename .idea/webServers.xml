@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2cd6bfb-198a-42c7-ab6e-03643b095d37" name="mgtdev" url="http://52.68.200.37">
+        <fileTransfer host="52.68.200.37" port="22" rootFolder="/home/cloudpanel/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
